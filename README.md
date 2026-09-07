@@ -1,64 +1,72 @@
-# 👋 Hi, I'm Phubodin Yosarawas
+# Phubodin Yosarawat
 
-**Information Systems Student · Frontend Developer**
+**Information Systems Student | Web Developer**
 
-📍 Khon Kaen, Thailand.
-🎓 Rajamangala University of Technology Isan — Khon Kaen Campus.
-📚 Business Administration and Information Technology.
-💻 Information Systems | GPA 3.08.
+Khon Kaen, Thailand
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I'm an Information Systems student interested in **Web Development, UI/UX, and Software Development**.
+กำลังศึกษาอยู่ในสาขาระบบสารสนเทศ และสนใจด้านการพัฒนาเว็บไซต์ทั้งส่วน Frontend และ Backend
 
-I enjoy turning ideas into simple, practical, and user-friendly web applications.
+ชอบออกแบบและพัฒนาเว็บไซต์ที่ใช้งานง่าย มีโครงสร้างชัดเจน และสามารถนำไปใช้งานได้จริง
 
 ---
 
-## 🛠️ Tech Stack
+## Education
 
-**Frontend**
+**Rajamangala University of Technology Isan, Khon Kaen Campus**
+
+คณะบริหารธุรกิจและเทคโนโลยี
+สาขาระบบสารสนเทศ
+GPA: **3.08**
+
+---
+
+## Skills
+
+### Frontend
 
 `HTML` `CSS` `JavaScript` `React` `Vite` `React Router` `JSX`
 
-**Backend**
+### Backend
 
 `Node.js` `Express.js` `PHP`
 
-**Database**
+### Database
 
 `MySQL` `SQL`
 
-**Tools**
+### Tools
 
-`VS Code` `Figma` `Postman` `Git` `GitHub`
+`Visual Studio Code` `Figma` `Postman` `Git` `GitHub`
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
-### 🛍️ belting
+### belting
 
-A product showcase web application.
+เว็บไซต์สำหรับแสดงและนำเสนอสินค้า
 
-**Tech Stack**
+**Technology Stack**
 
 `React` `Vite` `React Router` `JSX` `CSS`
 `Node.js` `Express.js` `MySQL`
 
-> React frontend connected with a Node.js / Express backend and MySQL database.
+พัฒนาโดยใช้ React และ Vite สำหรับส่วน Frontend เชื่อมต่อกับ Backend ที่พัฒนาด้วย Node.js และ Express.js พร้อมจัดเก็บข้อมูลด้วย MySQL
 
 ---
 
-## 📫 Contact
+## Contact
 
-📧 [phubodin.yo@rmuti.ac.th](mailto:phubodin.yo@rmuti.ac.th)
-📍 Khon Kaen, Thailand
+Email: **[phubodin.yo@rmuti.ac.th](mailto:phubodin.yo@rmuti.ac.th)**
+
+Location: **Khon Kaen, Thailand**
 
 ---
 
 <p align="center">
-  <sub>Building • Learning • Improving</sub>
+  <sub>สร้าง เรียนรู้ และพัฒนาอย่างต่อเนื่อง</sub>
 </p>

@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Phubodin Yosarawat
+# 👋 Hi, I'm Phubodin Yosarawas
 
 **Information Systems Student · Frontend Developer**
 
-📍 Khon Kaen, Thailand
-🎓 Rajamangala University of Technology Isan — Khon Kaen Campus
-📚 Business Administration and Information Technology
-💻 Information Systems | GPA 3.08
+📍 Khon Kaen, Thailand.
+🎓 Rajamangala University of Technology Isan — Khon Kaen Campus.
+📚 Business Administration and Information Technology.
+💻 Information Systems | GPA 3.08.
 
 ---
 

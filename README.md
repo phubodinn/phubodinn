@@ -16,7 +16,7 @@ Khon Kaen, Thailand
 
 ## Education
 
-**Rajamangala University of Technology Isan, Khon Kaen Campus**
+**มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน วิทยาเขตขอนแก่น**
 
 คณะบริหารธุรกิจและเทคโนโลยี
 สาขาระบบสารสนเทศ

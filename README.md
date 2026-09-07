@@ -8,8 +8,9 @@ Khon Kaen, Thailand
 
 ## About Me
 
-ผมกำลังศึกษาอยู่ในมหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน วิทยาเขตขอนแก่น คณะบรหิหารธุรกิจและเทคโนโลยี
+ผมกำลังศึกษาอยู่ในมหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน วิทยาเขตขอนแก่น คณะบริหารธุรกิจและเทคโนโลยี
 สาขาระบบสารสนเทศ และสนใจด้านการพัฒนาเว็บไซต์ทั้งส่วน Frontend และ Backend
+
 ชอบออกแบบและพัฒนาเว็บไซต์ที่ใช้งานง่าย มีโครงสร้างชัดเจน และสามารถนำไปใช้งานได้จริง
 
 ---
@@ -28,36 +29,38 @@ GPA: **3.08**
 
 ### Frontend
 
-`HTML` `CSS` `JavaScript` `React` `Vite` `React Router` `JSX`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite" />
+</p>
+
+`HTML` `CSS`  `React` `Vite` `React Router` `JSX`
 
 ### Backend
 
-`Node.js` `Express.js` `PHP`
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,js,express,php" />
+</p>
+
+`Node.js`  `JavaScript` `Express.js` `PHP`
 
 ### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 `MySQL` `SQL`
 
 ### Tools
 
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,git,github" />
+</p>
+
 `Visual Studio Code` `Figma` `Postman` `Git` `GitHub`
 
 ---
 
-## Featured Project
-
-### belting
-
-เว็บไซต์สำหรับแสดงและนำเสนอสินค้า
-
-**Technology Stack**
-
-`React` `Vite` `React Router` `JSX` `CSS`
-`Node.js` `Express.js` `MySQL`
-
-พัฒนาโดยใช้ React และ Vite สำหรับส่วน Frontend เชื่อมต่อกับ Backend ที่พัฒนาด้วย Node.js และ Express.js พร้อมจัดเก็บข้อมูลด้วย MySQL
-
----
 
 ## Contact
 
